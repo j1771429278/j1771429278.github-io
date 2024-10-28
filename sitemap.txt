@@ -1,4 +1,4 @@
-https://gitee.com/ji_yue_jian/henhouse.git/css/index.css
-https://gitee.com/ji_yue_jian/henhouse.git/css/var.css
-https://gitee.com/ji_yue_jian/henhouse.git/2024/10/28/hello-world/
-https://gitee.com/ji_yue_jian/henhouse.git
+https://github.com/j1771429278/j1771429278.github-io.git/css/index.css
+https://github.com/j1771429278/j1771429278.github-io.git/css/var.css
+https://github.com/j1771429278/j1771429278.github-io.git/2024/10/28/hello-world/
+https://github.com/j1771429278/j1771429278.github-io.git

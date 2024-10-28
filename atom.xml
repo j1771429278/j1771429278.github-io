@@ -3,11 +3,11 @@
   <title>Hexo</title>
   
   
-  <link href="https://gitee.com/ji_yue_jian/henhouse.git/atom.xml" rel="self"/>
+  <link href="https://github.com/j1771429278/j1771429278.github-io.git/atom.xml" rel="self"/>
   
-  <link href="https://gitee.com/ji_yue_jian/henhouse.git/"/>
+  <link href="https://github.com/j1771429278/j1771429278.github-io.git/"/>
   <updated>1985-10-26T08:15:00.000Z</updated>
-  <id>https://gitee.com/ji_yue_jian/henhouse.git/</id>
+  <id>https://github.com/j1771429278/j1771429278.github-io.git/</id>
   
   <author>
     <name>John Doe</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://gitee.com/ji_yue_jian/henhouse.git/2024/10/28/hello-world/"/>
-    <id>https://gitee.com/ji_yue_jian/henhouse.git/2024/10/28/hello-world/</id>
+    <link href="https://github.com/j1771429278/j1771429278.github-io.git/2024/10/28/hello-world/"/>
+    <id>https://github.com/j1771429278/j1771429278.github-io.git/2024/10/28/hello-world/</id>
     <published>2024-10-28T01:52:58.936Z</published>
     <updated>1985-10-26T08:15:00.000Z</updated>
     
