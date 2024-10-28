@@ -1,4 +1,4 @@
-http://example.com/css/var.css
 http://example.com/css/index.css
+http://example.com/css/var.css
 http://example.com/2024/10/28/hello-world/
 http://example.com/
