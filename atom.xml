@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>鸡舍</title>
-  
+  <icon>https://www.gravatar.com/avatar/5a8e72b4dcff062a0191b921271e5a13</icon>
   
   <link href="https://j1771429278.github.io/atom.xml" rel="self"/>
   
@@ -10,8 +10,8 @@
   <id>https://j1771429278.github.io/</id>
   
   <author>
-    <name>John Doe</name>
-    
+    <name>姬越剑</name>
+    <email>1771429278@qq.com</email>
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
